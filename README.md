@@ -1,16 +1,30 @@
-### Hi there 👋
+```javascript
+import { Developer } from "./swe.js";
 
-<!--
-**grau-maus/grau-maus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const josh = new Developer("Josh");
 
-Here are some ideas to get you started:
+console.log(josh.intro());
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- **grau-maus/grau-maus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started: -->
+# Hello World!
+## Welcome to my github profile!
+<p></p>
+
+##### As you can see, it's still a work in progress!!!
+
+<p></p>
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🔭 I’m currently working on App Academy's  -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+<!-- - 😄 Pronouns: ... -->
+
+- 🌱 I’m currently taking App Academy's Online SWE course!
+
+- 📫 Feel free to reach me at: ✨ joshtupas@gmail.com ✨
+
+- ⚡ Fun fact: 🥑 _Avocados are **berries!**_
