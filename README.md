@@ -17,15 +17,10 @@ Here are some ideas to get you started: -->
 ##### As you can see, it's still a work in progress!!!
 
 <p></p>
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🔭 I’m currently working on App Academy's  -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 😄 Pronouns: ... -->
 
-- 🌱 I’m currently taking App Academy's Online SWE course!
+- 🌱 I make full-stack apps!
 
-- 📫 Feel free to reach me at: ✨ joshtupas@gmail.com ✨
+- 📫 Feel free to reach out to me at: ✨ joshtupas@gmail.com ✨
 
 - ⚡ Fun fact: 🥑 _Avocados are **berries!**_
 
