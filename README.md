@@ -14,10 +14,6 @@ Here are some ideas to get you started: -->
 ## Welcome to my github profile!
 <p></p>
 
-##### As you can see, it's still a work in progress!!!
-
-<p></p>
-
 - 🌱 I make full-stack apps!
 
 - 📫 Feel free to reach out to me at: ✨ joshtupas@gmail.com ✨
