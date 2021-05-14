@@ -28,3 +28,8 @@ Here are some ideas to get you started: -->
 - 📫 Feel free to reach me at: ✨ joshtupas@gmail.com ✨
 
 - ⚡ Fun fact: 🥑 _Avocados are **berries!**_
+
+<p></p>
+
+#### Stats Stats Stats!
+![](https://github-readme-stats.vercel.app/api?username=grau-maus&show_icons=true&theme=tokyonight)
