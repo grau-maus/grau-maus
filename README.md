@@ -1,5 +1,5 @@
 ```javascript
-import { Developer } from "./swe.js";
+import Developer from "./swe.js";
 
 const josh = new Developer("Josh");
 
